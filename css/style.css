@@ -1,6 +1,11 @@
-.background-image {
-    background-image: url('img/cover-couple.jpg');
+.bg-image {
+    background-image: url('../img/cover-couple.jpg');
     background-size: cover;
     background-repeat: no-repeat;
-    height: 600px;
+    height: 100vh;
+}
+
+.mask{
+    height: 100vh;
+    background-color: hsla(0, 0%, 0%, 0.6)
 }
