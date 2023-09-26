@@ -2,7 +2,7 @@ html,
 body {
     max-width: 100%;
     overflow-x: hidden;
-    font-family: 'Libre Baskerville', serif;
+    font-family: 'Roboto Serif', serif;
 }
 
 .bg-image {
@@ -20,4 +20,3 @@ body {
 .none-decoration {
     text-decoration: none;
 }
-
