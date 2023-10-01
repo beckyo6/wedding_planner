@@ -6,7 +6,7 @@ body {
 }
 
 .bg-image {
-    background-image: url('../img/cover-couple.jpg');
+    background-image: url('../img/cover-couple.webp');
     background-size: cover;
     background-repeat: no-repeat;
     height: 100vh;
